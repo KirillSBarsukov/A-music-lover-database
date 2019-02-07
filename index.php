@@ -11,7 +11,6 @@
 </head>
 <body>
     <div class="container">
-
             <div class="jumbotron">
                 <h1 class="display-3">Music lovers</h1>
                 <p class="lead">There is a simple web page which take input and displays it in the database below</p>
